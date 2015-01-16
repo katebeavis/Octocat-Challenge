@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone ‘clones’ (copies) a repository including it’s entire contents from Github. You can then edit files and makes changes without having to be online. It is still connected to the original repository and you can push your changes to it.
