@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The ‘upstream’ remote is usually the primary branch of a project that is being worked on. It is usually the one that you ‘push to’ and ‘pull from’, therefore you are sending your changes ‘upstream.’ That also makes your local repo ‘downstream’ from it.
